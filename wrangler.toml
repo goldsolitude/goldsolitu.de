@@ -1,9 +1,9 @@
-name = "erisa-moe"
+name = "goldsolitu-de"
 type = "webpack"
-account_id = "ece1d09b06af2ced51407c97505ea0cc"
+account_id = "281d53e37b5f5e67fd4effc6f20fd6e6"
 #workers_dev = true
-route = "https://erisa.moe/*"
-zone_id = "66070ef41f4801aa42e966ad127885ce"
+route = "https://goldsolitu.de/*"
+zone_id = "1364386ab8d46d9766b6e3a699d4b2eb"
 
 [site]
 bucket = "./public"
